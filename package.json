@@ -1,0 +1,19 @@
+{
+  "name": "owo-farm-manager",
+  "version": "1.0.0",
+  "description": "OwO Farm Manager",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "pkg": {
+    "scripts": "Komutlar/*.js",
+    "assets": ["assets/**/*", "logs/**/*", "config/**/*"]
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^1.0.0",
+    "@discordjs/voice": "^0.15.0",
+    "gradient-string": "^2.0.0"
+  }
+}
