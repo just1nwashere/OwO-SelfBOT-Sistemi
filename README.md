@@ -1,1 +1,1 @@
-# OwO-SelfBOT-Sistemi
+# ⚡ OwO Self Bot Sistemi
